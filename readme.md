@@ -1,3 +1,4 @@
+# Trabalho desenvolvido pelos alunos Pedro Bellini e Rogerio Augusto
 * trabalho aula de scripts professor Navas
 * plataforma de busca e divulgacao de empregos
 * desenvolvida em node, express, sequelize, handlebars e mysqlite
